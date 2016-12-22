@@ -1,0 +1,5 @@
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 127.0.1.1:53            0.0.0.0:*               LISTEN      945/dnsmasq     
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      1505/cupsd      
+tcp6       0      0 ::1:631                 :::*                    LISTEN      1505/cupsd      

@@ -1,0 +1,20 @@
+indicator-application start/running, process 1722
+dbus start/running, process 1434
+gnome-session (Unity) start/running, process 1507
+upstart-dbus-session-bridge start/running, process 1522
+indicator-messages start/running, process 1636
+indicator-bluetooth start/running, process 1637
+unity-panel-service start/running, process 1511
+hud start/running, process 1501
+im-config start/running
+upstart-dbus-system-bridge start/running, process 1523
+at-spi2-registryd start/running, process 1502
+indicator-power start/running, process 1648
+indicator-datetime start/running, process 1669
+unity-settings-daemon start/running, process 1492
+indicator-sound start/running, process 1676
+upstart-file-bridge start/running, process 1525
+window-stack-bridge start/running, process 1458
+indicator-printers start/running, process 1677
+upstart-event-bridge start/running, process 1445
+indicator-session start/running, process 1680

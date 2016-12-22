@@ -1,0 +1,139 @@
+Netid  State      Recv-Q Send-Q   Local Address:Port       Peer Address:Port   
+nl     UNCONN     0      0                 rtnl:-1870658808                *       
+nl     UNCONN     0      0                 rtnl:evolution-calen/1861                *       
+nl     UNCONN     0      0                 rtnl:kernel                 *       
+nl     UNCONN     0      0                 rtnl:whoopsie/1054                *       
+nl     UNCONN     0      0                 rtnl:avahi-daemon/571                *       
+nl     UNCONN     0      0                 rtnl:deja-dup-monito/2348                *       
+nl     UNCONN     0      0                 rtnl:1841300232                *       
+nl     UNCONN     0      0                 rtnl:dnsmasq/945                *       
+nl     UNCONN     0      0                 rtnl:mission-control/1978                *       
+nl     UNCONN     0      0                 rtnl:deja-dup-monito/2348                *       
+nl     UNCONN     0      0                 rtnl:mission-control/1978                *       
+nl     UNCONN     0      0                 rtnl:evolution-calen/1861                *       
+nl     UNCONN     0      0                 rtnl:whoopsie/1054                *       
+nl     UNCONN     0      0                 rtnl:dnsmasq/945                *       
+nl     UNCONN     0      0                 rtnl:1841300232                *       
+nl     UNCONN     0      0                 rtnl:avahi-daemon/571                *       
+nl     UNCONN     4288   0              tcpdiag:ss/4303                *       
+nl     UNCONN     448    0              tcpdiag:kernel                 *       
+nl     UNCONN     0      0                    7:kernel                 *       
+nl     UNCONN     0      0                    9:kernel                 *       
+nl     UNCONN     0      0                   10:kernel                 *       
+nl     UNCONN     0      0                   11:kernel                 *       
+nl     UNCONN     0      0                   15:gvfs-mtp-volume/1906                *       
+nl     UNCONN     0      0                   15:ModemManager/620                *       
+nl     UNCONN     0      0                   15:Xorg/1183                *       
+nl     UNCONN     0      0                   15:-1051141285                *       
+nl     UNCONN     0      0                   15:-1511668376                *       
+nl     UNCONN     0      0                   15:kernel                 *       
+nl     UNCONN     0      0                   15:udisksd/1894                *       
+nl     UNCONN     0      0                   15:-1231446680                *       
+nl     UNCONN     0      0                   15:gvfs-gphoto2-vo/1915                *       
+nl     UNCONN     0      0                   15:pulseaudio/1753                *       
+nl     UNCONN     0      0                   15:-774484810                *       
+nl     UNCONN     0      0                   15:upowerd/1307                *       
+nl     UNCONN     0      0                   15:245                    *       
+nl     UNCONN     0      0                   15:NetworkManager/776                *       
+nl     UNCONN     0      0                   15:unity-settings-/1663                *       
+nl     UNCONN     0      0                   15:259                    *       
+nl     UNCONN     0      0                   15:colord/1464                *       
+nl     UNCONN     0      0                   15:-426193874                *       
+nl     UNCONN     0      0                   15:systemd-udevd/271                *       
+nl     UNCONN     0      0                   15:systemd-logind/562                *       
+nl     UNCONN     0      0                   15:-617637752                *       
+nl     UNCONN     0      0                   15:-777113199                *       
+nl     UNCONN     0      0                   15:gvfs-gphoto2-vo/1915                *       
+nl     UNCONN     0      0                   15:gvfs-mtp-volume/1906                *       
+nl     UNCONN     0      0                   15:udisksd/1894                *       
+nl     UNCONN     0      0                   15:-426193874                *       
+nl     UNCONN     0      0                   15:pulseaudio/1753                *       
+nl     UNCONN     0      0                   15:unity-settings-/1663                *       
+nl     UNCONN     0      0                   15:-1051141285                *       
+nl     UNCONN     0      0                   15:-617637752                *       
+nl     UNCONN     0      0                   15:colord/1464                *       
+nl     UNCONN     0      0                   15:-1231446680                *       
+nl     UNCONN     0      0                   15:upowerd/1307                *       
+nl     UNCONN     0      0                   15:Xorg/1183                *       
+nl     UNCONN     0      0                   15:-777113199                *       
+nl     UNCONN     0      0                   15:NetworkManager/776                *       
+nl     UNCONN     0      0                   15:ModemManager/620                *       
+nl     UNCONN     0      0                   15:-1511668376                *       
+nl     UNCONN     0      0                   15:-774484810                *       
+nl     UNCONN     0      0                   15:systemd-logind/562                *       
+nl     UNCONN     0      0                   15:259                    *       
+nl     UNCONN     0      0                   15:245                    *       
+nl     UNCONN     0      0                   16:kernel                 *       
+nl     UNCONN     0      0                   16:858                    *       
+nl     UNCONN     0      0                   16:858                    *       
+nl     UNCONN     0      0                   18:kernel                 *       
+p_raw  UNCONN     0      0                    *:eth0                   *       
+u_str  LISTEN     0      30     /var/run/dbus/system_bus_socket 8902                  * 0      
+u_str  LISTEN     0      128    /run/user/1000/keyring-J2iWVK/control 11742                 * 0      
+u_str  LISTEN     0      128    /run/user/1000/keyring-J2iWVK/pkcs11 11960                 * 0      
+u_str  LISTEN     0      128    /run/user/1000/keyring-J2iWVK/ssh 11962                 * 0      
+u_str  LISTEN     0      128    /run/user/1000/keyring-J2iWVK/gpg 11963                 * 0      
+u_str  LISTEN     0      10     @cyberpatriot-com.canonical.Unity.Scope.rhythmbox.T2482868006049 13783                 * 0      
+u_str  LISTEN     0      128    @/tmp/.ICE-unix/1670 12396                 * 0      
+u_str  LISTEN     0      5      /run/user/1000/pulse/native 12499                 * 0      
+u_str  LISTEN     0      128    @/tmp/.X11-unix/X0 10603                 * 0      
+u_str  LISTEN     0      10     @cyberpatriot-com.canonical.Unity.Scope.scopes.T2467848364876 13760                 * 0      
+u_str  LISTEN     0      10     @cyberpatriot-com.canonical.Unity.Master.Scope.weather.T2501699537672 13879                 * 0      
+u_str  LISTEN     0      10     @/dbus-vfs-daemon/socket-3P87OwAW 13297                 * 0      
+u_str  LISTEN     0      10     @cyberpatriot-com.canonical.Unity.Scope.files.T2449035987728 13745                 * 0      
+u_str  LISTEN     0      30     @/com/ubuntu/upstart 8452                  * 0      
+u_str  LISTEN     0      30     @/tmp/dbus-swnTmw2jhU 71118                 * 0      
+u_str  LISTEN     0      10     @/tmp/dbus-cYhlTgHK 12078                 * 0      
+u_str  LISTEN     0      10     @/dbus-vfs-daemon/socket-N1FVUFwc 13300                 * 0      
+u_str  LISTEN     0      10     @cyberpatriot-com.canonical.Unity.Master.Scope.reference.T2501700562518 13880                 * 0      
+u_str  LISTEN     0      5         /var/run/sdp 9168                  * 0      
+u_str  LISTEN     0      10     @/dbus-vfs-daemon/socket-ZxGRQbL0 14277                 * 0      
+u_str  LISTEN     0      10     @/dbus-vfs-daemon/socket-gmGFQGJM 13969                 * 0      
+u_str  LISTEN     0      128    /tmp/.X11-unix/X0 10604                 * 0      
+u_str  LISTEN     0      128    /var/run/avahi-daemon/socket 9205                  * 0      
+u_str  LISTEN     0      30     @/tmp/dbus-wdXfSiAj64 12058                 * 0      
+u_str  LISTEN     0      10     /var/run/acpid.socket 9800                  * 0      
+u_str  LISTEN     0      10     @/dbus-vfs-daemon/socket-M9yjWLGT 13276                 * 0      
+u_str  LISTEN     0      10     @cyberpatriot-com.canonical.Unity.Master.Scope.applications.T2445031022969 13715                 * 0      
+u_dgr  UNCONN     0      0             /dev/log 8899                  * 0      
+u_str  LISTEN     0      128    /var/run/cups/cups.sock 11641                 * 0      
+u_str  LISTEN     0      10     @cyberpatriot-com.canonical.Unity.Scope.applications.T2467862226099 13762                 * 0      
+u_str  LISTEN     0      30     @/com/ubuntu/upstart-session/1000/1523 11798                 * 0      
+u_str  LISTEN     0      128    /tmp/.ICE-unix/1670 12397                 * 0      
+u_str  LISTEN     0      10     @cyberpatriot-com.canonical.Unity.Master.Scope.music.T2481482717731 13768                 * 0      
+u_str  LISTEN     0      30     @/tmp/dbus-BYIaIhi1li 11855                 * 0      
+u_str  LISTEN     0      10     @cyberpatriot-com.canonical.Unity.Master.Scope.files.T2445047988827 13716                 * 0      
+u_dgr  LISTEN     0      0      /run/udev/control 8716                  * 0      
+u_str  LISTEN     0      10     @cyberpatriot-com.canonical.Unity.Master.Scope.moresuggestions.T250112515553 13874                 * 0      
+u_dgr  UNCONN     0      0                    * 13107                 * 0      
+u_dgr  UNCONN     0      0                    * 9619                  * 8899   
+u_dgr  UNCONN     0      0                    * 13208                 * 8899   
+u_dgr  UNCONN     0      0                    * 12482                 * 8899   
+u_dgr  UNCONN     0      0                    * 9938                  * 8899   
+u_dgr  UNCONN     0      0                    * 13136                 * 8899   
+u_dgr  UNCONN     0      0                    * 9191                  * 8899   
+u_dgr  UNCONN     0      0                    * 9172                  * 8899   
+u_dgr  UNCONN     0      0                    * 9795                  * 8899   
+u_dgr  UNCONN     0      0                    * 11964                 * 8899   
+u_dgr  UNCONN     0      0                    * 9528                  * 8899   
+u_dgr  UNCONN     0      0                    * 9347                  * 8899   
+u_dgr  UNCONN     0      0                    * 8728                  * 8727   
+u_dgr  UNCONN     0      0                    * 10974                 * 8899   
+u_dgr  UNCONN     0      0                    * 11175                 * 8899   
+u_dgr  UNCONN     0      0                    * 73187                 * 8899   
+u_dgr  UNCONN     0      0                    * 9133                  * 8899   
+u_dgr  UNCONN     0      0                    * 8727                  * 8728   
+u_dgr  UNCONN     0      0                    * 11544                 * 8899   
+u_dgr  UNCONN     0      0                    * 9017                  * 8899   
+tcp    UNCONN     0      0                    *:ipproto-5353               *:*       
+tcp    UNCONN     0      0                    *:ipproto-33216               *:*       
+tcp    UNCONN     0      0            127.0.1.1:ipproto-53               *:*       
+tcp    UNCONN     0      0                    *:ipproto-68               *:*       
+tcp    UNCONN     0      0                    *:ipproto-631               *:*       
+tcp    UNCONN     0      0                    *:ipproto-52383               *:*       
+tcp    UNCONN     0      0                   :::ipproto-5353              :::*       
+tcp    UNCONN     0      0                   :::ipproto-39740              :::*       
+tcp    UNCONN     0      0                   :::ipproto-20815              :::*       
+tcp    LISTEN     0      5            127.0.1.1:domain                *:*       
+tcp    LISTEN     0      128          127.0.0.1:ipp                   *:*       
+tcp    LISTEN     0      128                ::1:ipp                  :::*       
